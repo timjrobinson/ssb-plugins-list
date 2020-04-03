@@ -1,4 +1,4 @@
-# ssb-plugins
+# SSB Plugins List
 
 A list of all [Secure Scuttlebutt](https://scuttlebutt.nz) plugins and high level overview of what they do. For other Scuttlebutt apps/docs/tutorials that aren't plugins check out [awesome-ssb](https://github.com/mttmyr/awesome-ssb).
 
